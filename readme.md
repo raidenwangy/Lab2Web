@@ -7,11 +7,11 @@ Selain tabel, dibuat pula formulir pendaftaran menggunakan elemen `<form>` yang 
 
 ### Hasil dan Codingan (Bagian 1):
 * **Codingan 1:**  
-  ![1 codingan](media/Screenshot/1%20codingan.png)
+  ![codingan 1](<media/Screenshot/1 codingan.png>)
 * **Hasil 1:**  
-  ![1 hasil](media/Screenshot/1%20hasil.png)
+  ![hasil 1](<media/Screenshot/1 hasil.png>)
 * **Codingan 1.2:**  
-  ![1.2 codingan](media/Screenshot/1.2%20codingan.png)
+  ![codingan 1.2](<media/Screenshot/1.2 codingan.png>)
 
 ---
 
@@ -34,9 +34,9 @@ Pada tahap ini, dilakukan penambahan elemen-elemen isian formulir tingkat lanjut
 
 ### Hasil dan Codingan (Bagian 2):
 * **Codingan 2:**  
-  ![2 codingan](media/Screenshot/2%20codingan.png)
+ ![Codingan 2](<media/Screenshot/2 codingan.png>)
 * **Hasil 2:**  
-  ![2 hasil](media/Screenshot/2%20hasil.png)
+  ![hasil 2](<media/Screenshot/2 hasil.png>)
 
 ---
 
@@ -64,12 +64,12 @@ Menyisipkan media interaktif menggunakan tag pemutar bawaan HTML:
 
 ### Hasil dan Codingan (Bagian 3):
 * **Codingan 3:**  
-  ![3 codingan](media/Screenshot/3%20codingan.png)
+ ![Codingan 3](<media/Screenshot/3 codingan.png>)
 * **Hasil 3:**  
-  ![3 hasil](media/Screenshot/3%20hasil.png)
+  ![hasil 3](<media/Screenshot/3 hasil.png>)
 * **Codingan 3.2:**  
-  ![3.2 codingan](media/Screenshot/3.2%20codingan.png)
+  ![codingan 3.2](<media/Screenshot/3.2 codingan.png>)
 * **Hasil 3.2:**  
-  ![3.2 hasil](media/Screenshot/3.2%20hasil.png)
+ ![hasil 3.2](<media/Screenshot/3.2 hasil.png>)
 * **Hasil Akhirkeseluruhan:**  
-  ![hasil](media/Screenshot/Screenshot%20(254).png)
+  ![Hasil](<media/Screenshot/Screenshot (254).png>)
